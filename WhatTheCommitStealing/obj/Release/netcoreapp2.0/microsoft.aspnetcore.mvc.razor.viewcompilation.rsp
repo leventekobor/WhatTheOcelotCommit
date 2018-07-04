@@ -1,0 +1,12 @@
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WhatTheCommitStealing
+--content-root=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Home\About.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Home\Contact.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Home\Index.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Shared\Error.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Shared\_Layout.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\_ViewImports.cshtml
+--file=C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\Views\_ViewStart.cshtml

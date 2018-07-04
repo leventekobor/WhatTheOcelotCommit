@@ -1,0 +1,12 @@
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\funny.txt
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\WhatTheCommitStealing.deps.json
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\WhatTheCommitStealing.runtimeconfig.json
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\WhatTheCommitStealing.runtimeconfig.dev.json
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\WhatTheCommitStealing.dll
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Release\netcoreapp2.0\WhatTheCommitStealing.pdb
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.csproj.CoreCompileInputs.cache
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.AssemblyInfoInputs.cache
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.AssemblyInfo.cs
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.dll
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.pdb
+C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Release\netcoreapp2.0\WhatTheCommitStealing.csprojResolveAssemblyReference.cache
