@@ -10,3 +10,15 @@ C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\De
 C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.dll
 C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.pdb
 C:\Users\Levente\source\repos\WhatTheCommitStealing\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\funny.txt
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\funny.txt
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\WhatTheCommitStealing.deps.json
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\WhatTheCommitStealing.runtimeconfig.json
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\WhatTheCommitStealing.runtimeconfig.dev.json
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\WhatTheCommitStealing.dll
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\bin\Debug\netcoreapp2.0\WhatTheCommitStealing.pdb
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.csprojResolveAssemblyReference.cache
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.csproj.CoreCompileInputs.cache
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.AssemblyInfoInputs.cache
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.AssemblyInfo.cs
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.dll
+C:\greenfox\WhatTheOcelotCommit\WhatTheCommitStealing\obj\Debug\netcoreapp2.0\WhatTheCommitStealing.pdb
