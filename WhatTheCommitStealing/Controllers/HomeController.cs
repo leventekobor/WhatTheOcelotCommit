@@ -20,7 +20,7 @@ namespace WhatTheCommitStealing.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Why you here? Heh. Do not you have something to commit?";
+            ViewData["Message"] = "Why you here? Do not you have something to commit?";
 
             return View();
         }
